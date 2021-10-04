@@ -1,0 +1,63 @@
+canvas {
+border:10px solid rgb(240, 83, 35) ;
+ border-radius: 30px;
+ float:center ;
+ 
+ box-shadow: 10px 10px 15px rgb(245, 140, 4);
+ margin-left: 100px;
+ margin-top: 250px;
+}
+
+.heading{
+    width: 100%;
+    text-align: left;
+}
+.heading h3{
+display: inline;
+
+font-size: x-large;
+}
+.heading button{
+float: right;
+
+}
+.bigimage{
+    width: 100%;
+}
+#mymodal{
+    border: 5px solid chartreuse;
+}
+.instruct{
+    border: 5px solid chartreuse;
+}
+.restart{
+    border: 5px solid rgb(10, 222, 250);  
+}
+.start{
+    border: 5px solid rgb(42, 8, 235);  
+}
+
+
+.photo{
+    display: inline-block;
+    width:45% ;
+    border: 10px solid black;
+}
+.modal-dialog{
+    width:90% ;
+}
+h4{
+ background-color: rgb(253, 249, 30);
+bottom:0px ;
+}
+body{
+    background-size: cover;
+
+}
+video{
+    background:url('game_console.png') ; 
+    background-size:cover ;
+    background-position:center ;
+    padding:25px ;
+ 
+ }
